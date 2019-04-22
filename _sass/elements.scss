@@ -157,7 +157,7 @@ figure {
     @media only screen and (min-width: 62.5em) {
       img {
         width: calc(33.3% - 6px);
-        float: left;
+        float: middle;
         margin-left: 1px;
         margin-right: 1px;
       }
@@ -168,7 +168,7 @@ figure {
   }
 }
 svg:not(:root) {
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 // keyboard tag
