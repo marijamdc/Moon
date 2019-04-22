@@ -18,7 +18,6 @@ To find answers, I started reading the book *Clean Coder*, written by Robert C. 
 <p align="middle">
 	<img src="../assets/img/clean_coder.jpg">
 </p>
-<figcaption>Clean Coder</figcaption>
 </figure>
 
 First chapter was - **Professionalism**.
