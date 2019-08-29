@@ -24,7 +24,7 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
-
+google_analytics: 'UA-146745215-1'
 # Comments
 # disqus_shortname:  marijamdc
 
