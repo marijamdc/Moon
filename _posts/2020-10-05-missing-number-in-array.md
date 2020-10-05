@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Missing number in array"
+title:  "Find the missing number in an array"
 date:   2020-10-05
-excerpt: "Different ways - the good and the bad ones"
+excerpt: "The good and the bad one"
 tags: [kata, software, code, array, time complexity]
 comments: true
 ---
