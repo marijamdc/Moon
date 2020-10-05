@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maximize the array"
-date:   2020-10-05
+date:   2020-10-06
 excerpt: "Maximize the first array by using the elements from the second array"
 tags: [kata, software, code, array, time complexity]
 comments: true
